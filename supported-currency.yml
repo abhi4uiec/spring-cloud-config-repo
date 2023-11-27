@@ -1,0 +1,4 @@
+# http://localhost:8888/supported-currency/default
+# curl -X POST localhost:9090/actuator/refresh
+supported:
+  XRP,LTC,ETH,DOGE,BTC,DDD
